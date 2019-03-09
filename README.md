@@ -1,2 +1,0 @@
-# StarterTemplate
-Created with CodeSandbox
